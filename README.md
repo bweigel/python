@@ -1,4 +1,4 @@
-# Cloud Scanner
+# Cloud Scanner (my personal)
 
 [![Build Status](https://dev.azure.com/ethomson/cloud-scanner/_apis/build/status/ethomson.cloud-scanner-build?branchName=master)](https://dev.azure.com/ethomson/cloud-scanner/_build/latest?definitionId=72&branchName=master)
 
